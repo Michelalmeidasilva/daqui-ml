@@ -1,0 +1,41 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- cumprimentar
+- despedir
+- pedir_localizacao
+- pedir_estabelecimento
+- pedir_horario
+- pedir_telefone
+- negar
+responses:
+  utter_fallback:
+  - text: "Acho que não te entendi, você pode me perguntar de novo usando outras palavras?\n"
+
+  utter_cumprimentar:
+  - text: "Olá, como posso te ajudar?"
+
+  utter_continuar_conversa:
+  - text: "Quer conversar sobre outra coisa?"
+
+  utter_despedir:
+  - text: "Bravo!! obrigado por utilizar nosso bot, tenha um bom dia."
+
+  utter_localizacoes:
+  - text: "Esse lugar encontra-se em x x x "
+
+  utter_telefones:
+  - text: "O telefone é tal"
+
+  utter_estabelecimentos:
+  - text: "o estabelecimento é tal"
+
+  utter_horarios:
+  - text: "horario de atendimento é x"
+
+  utter_negar:
+  - text: "okay te entendi"
+
+actions:
+- action_estabelecimentos

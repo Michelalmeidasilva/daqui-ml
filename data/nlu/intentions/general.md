@@ -1,0 +1,185 @@
+## intent:cumprimentar
+- buenas
+- beleza
+- eai beleza
+- eai boa tarde
+- eai tranquilo
+- eai como vai
+- iae de boa
+- iae suave
+- Ola
+- como estas
+- olá
+- oi
+- Oi
+- eai
+- fala bot
+- ola
+- Bonjour
+- Good Morning
+- Good morning
+- eu falei ola
+- e aiiii
+- heey
+- bonjour
+- ey boss
+- bom noite
+- boa noite
+- boua noite
+- Bom dia
+- bom dia
+- boa trade
+- boa tarde
+- boua tarde 
+- saudações
+- oooola
+- olaaa
+- ola bot
+- ei bot
+- hey bot!
+- ei cara
+- ola vamos conversar
+- ei aqui
+- eii
+- ei
+- hola
+- ola senhora
+- ola senhor
+- ola denovo
+- ola voce pode falar ?
+- oi oi
+- oi eu sou[Sandra Hernandez](nome)
+- oi!
+- oi........................................................
+- oi?
+- olla
+- oiii
+- ola daqui
+- eai
+- eaee
+- como vai?
+- oola
+
+## intent:despedir
+- boa noite
+- até mais
+- te vejo por ai
+- tchau
+- xau
+- adios
+- tchau tchau
+- tchau :D
+- boua noite
+- tenho que ir
+- te vejo mais tarde
+- fechar
+- fechar essa conversa
+- terminar conversa
+- parar de conversar
+- se cuide até mais
+- byr
+- tchai
+- tchay
+- flao com voce mais tarde
+- falo com voce mais tarde
+- flo contigo depois
+- flw
+- falou
+
+
+## intent:negar
+- não quero isto
+- eu nao disse isso
+- eu nao quero falar
+- não
+- nunca
+- nao quero isto!
+- Nah
+- também não
+- deixe para lá
+- Nao
+- Nao obrigado
+- na verdade não.
+- Nopes
+- nops
+- No 
+- com certeza não
+- nao aceito
+- defitivamente nao
+- nego
+- nao aceito
+- nao quero isso
+- acho que nao
+- nao quero nada dessas coisas
+- i don't want to
+- i don't want to give you my email
+- i dont want to
+- i dont want to accept :P lol
+- i guess it means - no
+- i'm afraid not
+- i'm not sure
+- it is going pretty badly
+- it sucks
+- it sux
+- n
+- na
+- nah
+- nah I'm good
+- nah not for me
+- nah, first time
+- nah, i'm good
+- nehi
+- nein
+- neither
+- never
+- never mind
+- no
+- no :(
+- no I dont want
+- no I haven't decided yet if I want to sign up
+- no and no again
+- no bots at all
+- no go
+- no i can't
+- no i don't accept
+- no i dont want to
+- no i dont want to accept :P lol
+- no i won't
+- no ma'am
+- no sir
+- no sorry
+- no thank s
+- no thank you
+- no thanks
+- no way
+- no you did it wrong
+- no!!!!
+- no, i hate it
+- no, my frst time
+- no, thank you
+- no, thanks
+- no, thankyou
+- no. u r idiot
+- non
+- noooooooooo
+- noooooooooooooooooooooooooooooooooooooooo
+- nop
+- nope
+- nope!
+- nope. i am good
+- not going well at all
+- not really
+- not right now
+- not yet
+- nö
+- sorry not right now
+- still dont want to tell
+- thanks but no thanks
+- this sucks
+- very bad
+- I do not need help installing
+- I don't wanna tell the name of my company
+- no stop
+- stop it, i do not care!!!
+- none of them
+- I don't agree
