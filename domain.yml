@@ -4,11 +4,15 @@ session_config:
 intents:
 - cumprimentar
 - despedir
+- negar
+- agradecer
+- elogiar
 - pedir_localizacao
 - pedir_estabelecimento
 - pedir_horario
 - pedir_telefone
-- negar
+- pedir_produtos
+
 responses:
   utter_fallback:
   - text: "Acho que não te entendi, você pode me perguntar de novo usando outras palavras?\n"
@@ -38,4 +42,13 @@ responses:
   - text: "okay te entendi"
 
 actions:
-- action_estabelecimentos
+- action_search_estabelecimentos
+- action_search_cardapio
+- action_search_produtos
+
+entities:
+- produto
+- produtos
+- lancheria
+- estabelecimento
+- estabelecimentos
