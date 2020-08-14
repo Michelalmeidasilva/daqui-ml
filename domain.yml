@@ -39,16 +39,17 @@ responses:
   - text: "horario de atendimento é x"
 
   utter_negar:
-  - text: "okay te entendi"
+  - text: "te entendo fofo/a"
 
 actions:
 - action_search_estabelecimentos
 - action_search_cardapio
 - action_search_produtos
+- action_search_telefone
 
 entities:
-- produto
 - produtos
-- lancheria
 - estabelecimento
-- estabelecimentos
+- categoria_estabelecimentos
+- estabelecimento_lancheria
+- telefone
