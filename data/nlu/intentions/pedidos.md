@@ -10,25 +10,29 @@
 - por gentileza onde está o lugar 
 
 ## intent:pedir_estabelecimento
-- Quantas [sorveterias](estabelecimentos) tem na cidade?
-- Quais sao as [sorveterias](estabelecimentos) da cidade?
+- Quantas [sorveterias](categoria_estabelecimentos) tem na cidade?
+- Quais sao as [sorveterias](categoria_estabelecimentos) da cidade?
+- quais sao as [lancherias](categoria_estabelecimentos)
 - Quais os postos na cidade?
 
+## intent:pedir_telefone
+- qual o [numero](telefone) do [famintos](estabelecimento_lancheria)
+- qual o [numero](telefone) do [altas horas](estabelecimento_lancheria)
+- qual o [numero](telefone) do [elião](estabelecimento_lancheria)
+- qual o [numero](telefone) do [pajador](estabelecimento_lancheria)
+- qual o [numero](telefone) das [lancherias](categoria_estabelecimentos) da cidade?
+
 ## intent:pedir_horario
-- Quais [farmacias](estabelecimentos) estão abertas agora?
-- Quais [restaurantes](estabelecimentos) estão abertas agora?
-- Quais [agropecuarias](estabelecimentos) estão abertas agora?
-- Quais [escolas](estabelecimentos) estão abertas agora?
-- Quais [lancherias](estabelecimentos) estão abertas agora?
+- Quais [farmacias](categoria_estabelecimentos) estão abertas agora?
+- Quais [restaurantes](categoria_estabelecimentos) estão abertas agora?
+- Quais [agropecuarias](categoria_estabelecimentos) estão abertas agora?
+- Quais [escolas](categoria_estabelecimentos) estão abertas agora?
+- Quais [lancherias](categoria_estabelecimentos) estão abertas agora?
 - esse lugar está aberto?
 
-## intent:pedir_telefone
-- qual o numero desse local
-- qual o numero do lugar
-- quero ir até tal lugar
-- para que lado fica
 
 ## intent:pedir_produtos
-- Gostaria do [cardapio](produto) do [Famintos](estabelecimento)
-- me mostre o [cardapio](produto) do [Famintos](estabelecimento)
-- preciso do [cardapio](produto) do [Famintos](estabelecimento)
+- Gostaria do [cardapio](produtos) do [Famintos](estabelecimento_lancheria)
+- me mostre o [cardapio](produtos) do [Famintos](estabelecimento_lancheria)
+- preciso do [cardapio](produtos) do [Famintos](estabelecimento_lancheria)
+- 
